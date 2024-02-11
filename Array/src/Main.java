@@ -47,7 +47,7 @@ public class Main {
                 updateStudentDetails();
                 break;
             case 5:
-                updateMarks();
+               updateMarks();
                 break;
             case 6:
                 deleteStudent();
@@ -563,6 +563,7 @@ public class Main {
 
 
 
+    
 
 }
 
