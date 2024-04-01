@@ -22,7 +22,7 @@ public class Main {
 
     private static void Menu() {
         System.out.println(line);
-        System.out.println("|                WELCOME TO GDSE MARKS MANAGEMENT SYSTEM                      |");
+        System.out.println("|                WELCOME TO MARKS MANAGEMENT SYSTEM                      |");
         System.out.println(line);
         System.out.println("[1] Add New Student                      [2] Add New Student With Marks");
         System.out.println("[3] Add Marks                            [4] Update Student Details");
